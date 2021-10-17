@@ -7,7 +7,7 @@
 🏆 I Like to do **Competitive Programming** frequently, because of my Interest in problem solving and to improve **Data Structures and Algorithms Skill**.<br />
 📝 Open for **Web Applications** Development opportunity and always ready to **collaborate** on Projects.<br />
 💬 Ask me about DSA based Problems, Web dev related stuffs.<br />
-⚡ Fun fact, I love scrolling through Memes.
+⚡ Fun fact, I love scrolling Memes.
 
 <p >
 
