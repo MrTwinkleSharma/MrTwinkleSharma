@@ -2,7 +2,7 @@
 <h1>Hello, I am <a href="/">Twinkle Sharma</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img src="./assets/binarynum.gif" alt="programmer" width="1000" height="400"/> <hr/>
 
-👨‍🎓 I am **Twinkle Sharma**, Sophomore at Madan Mohan Malaviya University of Technology, Gorakhpur. <br />
+👨‍🎓 I am **Twinkle Sharma**, Computer Science Engineering student at Madan Mohan Malaviya University of Technology, Gorakhpur. <br />
 💻 I am a **Web Developer** currently working on **MERN Stack**.<br />
 🏆 I Like to do **Competitive Programming** frequently, because of my Interest in problem solving and to improve **Data Structures and Algorithms Skill**.<br />
 📝 Open for **Web Applications** Development opportunity and always ready to **collaborate** on Projects.<br />
