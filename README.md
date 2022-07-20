@@ -1,6 +1,9 @@
 
 <h1>Hello, I am <a href="/">Twinkle Sharma</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img src="./assets/binarynum.gif" alt="programmer" width="1000" height="400"/> <hr/>
+<div style="display:flex; overflow:hidden">
+<img src="./assets/binarynum.gif" alt="programmer" width="1000" height="400"/>
+</div>
+<hr/>
 
 👨‍🎓 I am **Twinkle Sharma**, Computer Science Engineering student at Madan Mohan Malaviya University of Technology, Gorakhpur. <br />
 💻 I am a **Web Developer** currently working on **MERN Stack**.<br />
