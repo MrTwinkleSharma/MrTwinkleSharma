@@ -1,16 +1,30 @@
 
 <h1>Hello, I am <a href="/">Twinkle Sharma</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<div style="display:flex; overflow:hidden">
-<img src="./assets/binarynum.gif" alt="programmer" width="1000" height="400"/>
-</div>
-<hr/>
 
-👨‍🎓 I am **Twinkle Sharma**, Computer Science Engineering student at Madan Mohan Malaviya University of Technology, Gorakhpur. <br />
-💻 I am a **Web Developer** currently working on **MERN Stack**.<br />
+
+
+👨‍🎓 I am **Twinkle Sharma**, Computer Science Engineering final year student at Madan Mohan Malaviya University of Technology, Gorakhpur. <br />
+💻 I am a **Software Engineer** currently working on **Development of Web and Desktop App in Javascript**.<br />
 🏆 I Like to do **Competitive Programming** frequently, because of my Interest in problem solving and to improve **Data Structures and Algorithms Skill**.<br />
-📝 Open for **Web Applications** Development opportunity and always ready to **collaborate** on Projects.<br />
+📝 Open for **Software Development** related opportunity and always ready to **collaborate** on great Ideas.<br />
 💬 Ask me about DSA based Problems, Web dev related stuffs.<br />
 ⚡ Fun fact, I love scrolling Memes.
+<hr/>
+
+**What I have Done Till Now?**<br />
+<ul><li>Worked in MERN Stack with both Javascript and TypeScript Language.</li>
+
+<li>Created Frontend Components for a Full Stack Web Application from Scratch as well used several design related libraries like MUI, Tailwind, SemanticUI, Framer Motion, etc.</li>
+<li>Used several third party libraries, paid services integration, and lots of npm packages to reduce the development time and to work according to requirements.</li>
+<li>My Primary Language on which I have done majority of work is Javascript, and I have knowledge of Python, C++, Java as well.</li>
+<li>Collaborated with a High skilled team and seniors to complete the projects related to organization.</li>
+<li>Solved lots of problems on various platforms like leetcode, geeksforgeeks, hackerrank etc and used those learnings in the real life problems while working on software development.</li>
+
+<li>Apart from Web Application, also did my hands dirty in Desktop Application and it's packaging for several platforms.</li>
+<li>Not only software development, I have worked as a writer as well to write the Data Structures, Database Management, Several Programming Language Concepts, Different Libraries and Frameworks, Algorithms, System Design related articles. Written approximately 100+ Articles on various ed-tech platforms like Scaler, Geeks for Geeks.</li>
+
+</ul>
+<hr/>
 
 <p >
 
