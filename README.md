@@ -48,7 +48,7 @@
 </a>
   
 <a href="https://stackoverflow.com/users/13599647/mr-twinkle-sharma" target="_blank"> 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/stackoverflow-color.svg" alt="stackoverflow" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" width="40" height="40"/> 
 </a>
   
 <a href="https://www.hackerrank.com/mrtwinklesharma?hr_r=1" target="_blank"> 
